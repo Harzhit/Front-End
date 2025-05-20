@@ -1,0 +1,20 @@
+Web Pages are designed using : 
+    HTML + CSS + Javascript
+HTML : for creating structure
+CSS : for adding design to the web page
+Javascript : for adding logic
+
+Client Server Architecture: 
+HTML code is stored in CSA.
+User uses browser as client to connect to CSA and then have access. There can be multiple clients.
+
+If content of the website is same of all users then it's a static website
+All websites are dynamic nowadays - like facebook, google, etc.
+
+Client side section -> Frontend Side -> Only responsible for handling UI/UX and to show the data to the user
+Server side section -> Backend Side -> Has database for storing data and for authentication
+
+What happens when you visit a website?
+    All devices connected to internet have a unique IP address
+    To connect to google.com -> you need IP address of google.com -> Here comes DNS[Domain Name System]
+    I enter the URL -> Browser contacts the ISP for the IP address -> ISP performs the DNS search -> ISP will return the relevant IP address and a connection is established with google.com
